@@ -22,14 +22,14 @@ html {
 .calendar {
   width: 45rem;
   height: 52rem;
-  background-color: #222227;
+  background-color: #46464b;
   box-shadow: 0 0.5rem 3rem rgba(0, 0, 0, 0.4);
 }
 
 .month {
   width: 100%;
   height: 12rem;
-  background-color: #167e56;
+  background-color: #1e2ba0;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -105,5 +105,5 @@ html {
 }
 
 .today {
-  background-color: #167e56;
+  background-color: #2116b3;
 }
